@@ -1,7 +1,8 @@
 {
   "homepage": "https://hize.be/dl/ItemSaver.jar",
   "<mcversion>": {
-    "1.0": "Initial release"
+    "1.0": "Initial release",
+	"1.1": "Initial release"
   },
   "promos": {
     "<mcversion>-latest": "<modversion>",
