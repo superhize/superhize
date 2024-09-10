@@ -1,2 +1,1 @@
-```math
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github-production-user-asset-6210df.s3.amazonaws.com/20768569/337814658-f4a86a6d-a75d-4289-8373-426354b20a2e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240628T015324Z&X-Amz-Expires=300&X-Amz-Signature=56b144a89e45fd12436df426d3edb8cea4f183b7826f92acaaf50276f32b5453&X-Amz-SignedHeaders=host&actor_id=17607478&key_id=0&repo_id=812077362');]{x0000}$}$$
+WIP
